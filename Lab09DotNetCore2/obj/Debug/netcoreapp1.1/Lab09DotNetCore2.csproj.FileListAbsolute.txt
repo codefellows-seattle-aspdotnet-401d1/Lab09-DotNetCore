@@ -1,0 +1,11 @@
+C:\Users\acohr\source\repos\Lab09-DotNetCore\Lab09DotNetCore2\bin\Debug\netcoreapp1.1\Lab09DotNetCore2.deps.json
+C:\Users\acohr\source\repos\Lab09-DotNetCore\Lab09DotNetCore2\bin\Debug\netcoreapp1.1\Lab09DotNetCore2.runtimeconfig.json
+C:\Users\acohr\source\repos\Lab09-DotNetCore\Lab09DotNetCore2\bin\Debug\netcoreapp1.1\Lab09DotNetCore2.runtimeconfig.dev.json
+C:\Users\acohr\source\repos\Lab09-DotNetCore\Lab09DotNetCore2\bin\Debug\netcoreapp1.1\Lab09DotNetCore2.dll
+C:\Users\acohr\source\repos\Lab09-DotNetCore\Lab09DotNetCore2\bin\Debug\netcoreapp1.1\Lab09DotNetCore2.pdb
+C:\Users\acohr\source\repos\Lab09-DotNetCore\Lab09DotNetCore2\obj\Debug\netcoreapp1.1\Lab09DotNetCore2.csprojResolveAssemblyReference.cache
+C:\Users\acohr\source\repos\Lab09-DotNetCore\Lab09DotNetCore2\obj\Debug\netcoreapp1.1\Lab09DotNetCore2.csproj.CoreCompileInputs.cache
+C:\Users\acohr\source\repos\Lab09-DotNetCore\Lab09DotNetCore2\obj\Debug\netcoreapp1.1\Lab09DotNetCore2.AssemblyInfoInputs.cache
+C:\Users\acohr\source\repos\Lab09-DotNetCore\Lab09DotNetCore2\obj\Debug\netcoreapp1.1\Lab09DotNetCore2.AssemblyInfo.cs
+C:\Users\acohr\source\repos\Lab09-DotNetCore\Lab09DotNetCore2\obj\Debug\netcoreapp1.1\Lab09DotNetCore2.dll
+C:\Users\acohr\source\repos\Lab09-DotNetCore\Lab09DotNetCore2\obj\Debug\netcoreapp1.1\Lab09DotNetCore2.pdb
