@@ -12538,12 +12538,15 @@
   },
   "project": {
     "version": "1.0.0",
+    "restoreSettings": {
+      "hideWarningsAndErrors": true
+    },
     "restore": {
-      "projectUniqueName": "C:\\Users\\akure\\source\\repos\\Lab09-DotNetCore\\lab09-brandon\\DotNetIntro\\DotNetIntro.csproj",
+      "projectUniqueName": "C:\\Users\\akure\\source\\repos\\Lab09-DotNetCore\\lab09-brandon\\DotNetIntro\\DotNetIntro\\DotNetIntro.csproj",
       "projectName": "DotNetIntro",
-      "projectPath": "C:\\Users\\akure\\source\\repos\\Lab09-DotNetCore\\lab09-brandon\\DotNetIntro\\DotNetIntro.csproj",
+      "projectPath": "C:\\Users\\akure\\source\\repos\\Lab09-DotNetCore\\lab09-brandon\\DotNetIntro\\DotNetIntro\\DotNetIntro.csproj",
       "packagesPath": "C:\\Users\\akure\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\akure\\source\\repos\\Lab09-DotNetCore\\lab09-brandon\\DotNetIntro\\obj\\",
+      "outputPath": "C:\\Users\\akure\\source\\repos\\Lab09-DotNetCore\\lab09-brandon\\DotNetIntro\\DotNetIntro\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
