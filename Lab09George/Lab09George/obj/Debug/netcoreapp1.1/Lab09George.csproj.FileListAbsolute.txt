@@ -1,0 +1,11 @@
+C:\Users\Georg\source\repos\Lab09-DotNetCore\Lab09George\Lab09George\bin\Debug\netcoreapp1.1\Lab09George.deps.json
+C:\Users\Georg\source\repos\Lab09-DotNetCore\Lab09George\Lab09George\bin\Debug\netcoreapp1.1\Lab09George.runtimeconfig.json
+C:\Users\Georg\source\repos\Lab09-DotNetCore\Lab09George\Lab09George\bin\Debug\netcoreapp1.1\Lab09George.runtimeconfig.dev.json
+C:\Users\Georg\source\repos\Lab09-DotNetCore\Lab09George\Lab09George\bin\Debug\netcoreapp1.1\Lab09George.dll
+C:\Users\Georg\source\repos\Lab09-DotNetCore\Lab09George\Lab09George\bin\Debug\netcoreapp1.1\Lab09George.pdb
+C:\Users\Georg\source\repos\Lab09-DotNetCore\Lab09George\Lab09George\obj\Debug\netcoreapp1.1\Lab09George.csprojResolveAssemblyReference.cache
+C:\Users\Georg\source\repos\Lab09-DotNetCore\Lab09George\Lab09George\obj\Debug\netcoreapp1.1\Lab09George.csproj.CoreCompileInputs.cache
+C:\Users\Georg\source\repos\Lab09-DotNetCore\Lab09George\Lab09George\obj\Debug\netcoreapp1.1\Lab09George.AssemblyInfoInputs.cache
+C:\Users\Georg\source\repos\Lab09-DotNetCore\Lab09George\Lab09George\obj\Debug\netcoreapp1.1\Lab09George.AssemblyInfo.cs
+C:\Users\Georg\source\repos\Lab09-DotNetCore\Lab09George\Lab09George\obj\Debug\netcoreapp1.1\Lab09George.dll
+C:\Users\Georg\source\repos\Lab09-DotNetCore\Lab09George\Lab09George\obj\Debug\netcoreapp1.1\Lab09George.pdb
