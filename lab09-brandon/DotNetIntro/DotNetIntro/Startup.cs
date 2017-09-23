@@ -25,6 +25,8 @@ namespace DotNetIntro
                 app.UseDeveloperExceptionPage();
             }
 
+            app.UseFileServer(enableDirectoryBrowsing: env.IsDevelopment());
+
             app.Run(async (context) =>
             {
                 await context.Response.WriteAsync("Hello World!");

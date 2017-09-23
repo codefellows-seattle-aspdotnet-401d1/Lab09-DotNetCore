@@ -1,0 +1,11 @@
+C:\Users\akure\source\repos\Lab09-DotNetCore\lab09-brandon\DotNetIntro\DotNetIntro\bin\Debug\netcoreapp2.0\DotNetIntro.deps.json
+C:\Users\akure\source\repos\Lab09-DotNetCore\lab09-brandon\DotNetIntro\DotNetIntro\bin\Debug\netcoreapp2.0\DotNetIntro.runtimeconfig.json
+C:\Users\akure\source\repos\Lab09-DotNetCore\lab09-brandon\DotNetIntro\DotNetIntro\bin\Debug\netcoreapp2.0\DotNetIntro.runtimeconfig.dev.json
+C:\Users\akure\source\repos\Lab09-DotNetCore\lab09-brandon\DotNetIntro\DotNetIntro\bin\Debug\netcoreapp2.0\DotNetIntro.dll
+C:\Users\akure\source\repos\Lab09-DotNetCore\lab09-brandon\DotNetIntro\DotNetIntro\bin\Debug\netcoreapp2.0\DotNetIntro.pdb
+C:\Users\akure\source\repos\Lab09-DotNetCore\lab09-brandon\DotNetIntro\DotNetIntro\obj\Debug\netcoreapp2.0\DotNetIntro.csprojResolveAssemblyReference.cache
+C:\Users\akure\source\repos\Lab09-DotNetCore\lab09-brandon\DotNetIntro\DotNetIntro\obj\Debug\netcoreapp2.0\DotNetIntro.csproj.CoreCompileInputs.cache
+C:\Users\akure\source\repos\Lab09-DotNetCore\lab09-brandon\DotNetIntro\DotNetIntro\obj\Debug\netcoreapp2.0\DotNetIntro.AssemblyInfoInputs.cache
+C:\Users\akure\source\repos\Lab09-DotNetCore\lab09-brandon\DotNetIntro\DotNetIntro\obj\Debug\netcoreapp2.0\DotNetIntro.AssemblyInfo.cs
+C:\Users\akure\source\repos\Lab09-DotNetCore\lab09-brandon\DotNetIntro\DotNetIntro\obj\Debug\netcoreapp2.0\DotNetIntro.dll
+C:\Users\akure\source\repos\Lab09-DotNetCore\lab09-brandon\DotNetIntro\DotNetIntro\obj\Debug\netcoreapp2.0\DotNetIntro.pdb
