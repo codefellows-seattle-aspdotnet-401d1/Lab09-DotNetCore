@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\corelab",
+    "\\corelab\\corelab"
   ],
-  "SelectedNode": "\\Readme.md",
+  "SelectedNode": "\\corelab\\corelab.sln",
   "PreviewInSolutionExplorer": false
 }
